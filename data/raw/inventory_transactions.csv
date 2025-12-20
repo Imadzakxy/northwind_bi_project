@@ -1,0 +1,103 @@
+TransactionID,TransactionType,CreatedDate,ModifiedDate,ProductName,Quantity,Purchase Order ID,Customer Order ID,Comments,CategoryName,StandardCost,ListPrice,ReorderLevel,TargetLevel,TransactionValue
+35,Purchased,2006-03-22 16:02:28,2006-03-22 16:02:28,Northwind Traders Dried Plums,75,,,,Dried Fruit & Nuts,3.0,3.5,50,75,225.0
+36,Purchased,2006-03-22 16:02:48,2006-03-22 16:02:48,Northwind Traders Mozzarella,40,,,,Dairy Products,26.1,34.8,10,40,1044.0
+37,Purchased,2006-03-22 16:03:04,2006-03-22 16:03:04,Northwind Traders Long Grain Rice,100,,,,Grains,5.25,7.0,25,100,525.0
+38,Purchased,2006-03-22 16:03:09,2006-03-22 16:03:09,Northwind Traders Gnocchi,120,,,,Pasta,28.5,38.0,30,120,3420.0
+39,Purchased,2006-03-22 16:03:14,2006-03-22 16:03:14,Northwind Traders Ravioli,80,,,,Pasta,14.625,19.5,20,80,1170.0
+40,Purchased,2006-03-22 16:03:40,2006-03-22 16:03:40,Northwind Traders Boysenberry Spread,100,,,,"Jams, Preserves",18.75,25.0,25,100,1875.0
+41,Purchased,2006-03-22 16:03:47,2006-03-22 16:03:47,Northwind Traders Dried Pears,40,,,,Dried Fruit & Nuts,22.5,30.0,10,40,900.0
+42,Purchased,2006-03-22 16:03:54,2006-03-22 16:03:54,Northwind Traders Curry Sauce,40,,,,Sauces,30.0,40.0,10,40,1200.0
+43,Purchased,2006-03-22 16:04:02,2006-03-22 16:04:02,Northwind Traders Walnuts,40,,,,Dried Fruit & Nuts,17.4375,23.25,10,40,697.5
+44,Purchased,2006-03-22 16:04:07,2006-03-22 16:04:07,Northwind Traders Fruit Cocktail,40,,,,Canned Fruit & Vegetables,29.25,39.0,10,40,1170.0
+45,Purchased,2006-03-22 16:04:12,2006-03-22 16:04:12,Northwind Traders Chocolate Biscuits Mix,20,,,,Baked Goods & Mixes,6.9,9.2,5,20,138.0
+46,Purchased,2006-03-22 16:04:17,2006-03-22 16:04:17,Northwind Traders Marmalade,40,,,,"Jams, Preserves",60.75,81.0,10,40,2430.0
+47,Purchased,2006-03-22 16:04:20,2006-03-22 16:04:20,Northwind Traders Scones,20,,,,Baked Goods & Mixes,7.5,10.0,5,20,150.0
+48,Purchased,2006-03-22 16:04:24,2006-03-22 16:04:24,Northwind Traders Crab Meat,120,,,,Canned Meat,13.8,18.4,30,120,1656.0
+49,Purchased,2006-03-22 16:04:28,2006-03-22 16:04:28,Northwind Traders Clam Chowder,40,,,,Soups,7.2375,9.65,10,40,289.5
+50,Purchased,2006-03-22 16:04:31,2006-03-22 16:04:31,Northwind Traders Chocolate,100,,,,Candy,9.5625,12.75,25,100,956.25
+51,Purchased,2006-03-22 16:04:38,2006-03-22 16:04:38,Northwind Traders Dried Apples,40,,,,Dried Fruit & Nuts,39.75,53.0,10,40,1590.0
+52,Purchased,2006-03-22 16:04:41,2006-03-22 16:04:41,Northwind Traders Almonds,20,,,,Dried Fruit & Nuts,7.5,10.0,5,20,150.0
+53,Purchased,2006-03-22 16:04:45,2006-03-22 16:04:45,Northwind Traders Mustard,60,,,,Condiments,9.75,13.0,15,60,585.0
+54,Purchased,2006-03-22 16:05:07,2006-03-22 16:05:07,Northwind Traders Syrup,100,,,,Condiments,7.5,10.0,25,100,750.0
+55,Purchased,2006-03-22 16:05:11,2006-03-22 16:05:11,Northwind Traders Cajun Seasoning,40,,,,Condiments,16.5,22.0,10,40,660.0
+56,Purchased,2006-03-22 16:05:14,2006-03-22 16:05:14,Northwind Traders Olive Oil,40,,,,Oil,16.0125,21.35,10,40,640.5
+57,Purchased,2006-03-22 16:05:26,2006-03-22 16:05:26,Northwind Traders Hot Pepper Sauce,40,,,,Sauces,15.7875,21.05,10,40,631.5
+58,Purchased,2006-03-22 16:05:32,2006-03-22 16:05:32,Northwind Traders Tomato Sauce,80,,,,Sauces,12.75,17.0,20,80,1020.0
+59,Purchased,2006-03-22 16:05:47,2006-03-22 16:05:47,Northwind Traders Chai,40,,,,Beverages,13.5,18.0,10,40,540.0
+60,Purchased,2006-03-22 16:05:51,2006-03-22 16:05:51,Northwind Traders Beer,60,,,,Beverages,10.5,14.0,15,60,630.0
+61,Purchased,2006-03-22 16:06:00,2006-03-22 16:06:00,Northwind Traders Coffee,100,,,,Beverages,34.5,46.0,25,100,3450.0
+62,Purchased,2006-03-22 16:06:03,2006-03-22 16:06:03,Northwind Traders Green Tea,125,,,,Beverages,2.0,2.99,100,125,250.0
+63,Sold,2006-03-22 16:07:56,2006-03-24 11:03:00,Northwind Traders Dried Plums,30,,,,Dried Fruit & Nuts,3.0,3.5,50,75,90.0
+64,Sold,2006-03-22 16:08:19,2006-03-22 16:08:59,Northwind Traders Dried Pears,10,,,,Dried Fruit & Nuts,22.5,30.0,10,40,225.0
+65,Sold,2006-03-22 16:08:29,2006-03-22 16:08:59,Northwind Traders Dried Apples,10,,,,Dried Fruit & Nuts,39.75,53.0,10,40,397.5
+66,Sold,2006-03-22 16:08:37,2006-03-22 16:08:59,Northwind Traders Dried Plums,10,,,,Dried Fruit & Nuts,3.0,3.5,50,75,30.0
+67,Sold,2006-03-22 16:09:46,2006-03-22 16:10:27,Northwind Traders Chai,15,,,,Beverages,13.5,18.0,10,40,202.5
+68,Sold,2006-03-22 16:10:06,2006-03-22 16:10:27,Northwind Traders Coffee,20,,,,Beverages,34.5,46.0,25,100,690.0
+69,Sold,2006-03-22 16:11:39,2006-03-24 11:00:55,Northwind Traders Chocolate Biscuits Mix,20,,,,Baked Goods & Mixes,6.9,9.2,5,20,138.0
+70,Sold,2006-03-22 16:11:56,2006-03-24 10:59:41,Northwind Traders Chocolate,10,,,,Candy,9.5625,12.75,25,100,95.625
+71,Sold,2006-03-22 16:12:29,2006-03-24 10:57:38,Northwind Traders Curry Sauce,17,,,,Sauces,30.0,40.0,10,40,510.0
+72,Purchased,2006-03-24 10:41:30,2006-03-24 10:41:30,Northwind Traders Green Tea,200,,,,Beverages,2.0,2.99,100,125,400.0
+73,Sold,2006-03-24 10:41:33,2006-03-24 10:41:42,Northwind Traders Green Tea,200,,,"Fill Back Ordered product, Order #40",Beverages,2.0,2.99,100,125,400.0
+74,Purchased,2006-03-24 10:53:13,2006-03-24 10:53:13,Northwind Traders Chocolate,100,,,,Candy,9.5625,12.75,25,100,956.25
+75,Sold,2006-03-24 10:53:16,2006-03-24 10:55:46,Northwind Traders Chocolate,100,,,"Fill Back Ordered product, Order #39",Candy,9.5625,12.75,25,100,956.25
+76,Purchased,2006-03-24 10:53:36,2006-03-24 10:53:36,Northwind Traders Coffee,300,,,,Beverages,34.5,46.0,25,100,10350.0
+77,Sold,2006-03-24 10:53:39,2006-03-24 10:56:57,Northwind Traders Coffee,300,,,"Fill Back Ordered product, Order #38",Beverages,34.5,46.0,25,100,10350.0
+78,Purchased,2006-03-24 10:54:04,2006-03-24 10:54:04,Northwind Traders Clam Chowder,200,,,,Soups,7.2375,9.65,10,40,1447.5
+79,Sold,2006-03-24 10:54:07,2006-03-24 10:58:40,Northwind Traders Clam Chowder,200,,,"Fill Back Ordered product, Order #36",Soups,7.2375,9.65,10,40,1447.5
+80,Purchased,2006-03-24 10:54:33,2006-03-24 10:54:33,Northwind Traders Chocolate Biscuits Mix,30,,,,Baked Goods & Mixes,6.9,9.2,5,20,207.0
+81,Sold,2006-03-24 10:54:35,2006-03-24 11:02:02,Northwind Traders Chocolate Biscuits Mix,30,,,"Fill Back Ordered product, Order #33",Baked Goods & Mixes,6.9,9.2,5,20,207.0
+82,Purchased,2006-03-24 10:54:58,2006-03-24 10:54:58,Northwind Traders Beer,100,,,,Beverages,10.5,14.0,15,60,1050.0
+83,Sold,2006-03-24 10:55:02,2006-03-24 11:03:00,Northwind Traders Beer,100,,,"Fill Back Ordered product, Order #30",Beverages,10.5,14.0,15,60,1050.0
+84,Sold,2006-03-24 14:48:15,2006-04-04 11:41:14,Northwind Traders Boysenberry Spread,10,,,,"Jams, Preserves",18.75,25.0,25,100,187.5
+85,Sold,2006-03-24 14:48:23,2006-04-04 11:41:14,Northwind Traders Cajun Seasoning,10,,,,Condiments,16.5,22.0,10,40,165.0
+86,On Hold,2006-03-24 14:49:16,2006-03-24 14:49:16,Northwind Traders Dried Plums,20,,,,Dried Fruit & Nuts,3.0,3.5,50,75,60.0
+87,On Hold,2006-03-24 14:49:20,2006-03-24 14:49:20,Northwind Traders Green Tea,50,,,,Beverages,2.0,2.99,100,125,100.0
+88,On Hold,2006-03-24 14:50:09,2006-03-24 14:50:09,Northwind Traders Chai,25,,,,Beverages,13.5,18.0,10,40,337.5
+89,On Hold,2006-03-24 14:50:14,2006-03-24 14:50:14,Northwind Traders Coffee,25,,,,Beverages,34.5,46.0,25,100,862.5
+90,On Hold,2006-03-24 14:50:18,2006-03-24 14:50:18,Northwind Traders Green Tea,25,,,,Beverages,2.0,2.99,100,125,50.0
+91,Sold,2006-03-24 14:51:03,2006-04-04 11:09:24,Northwind Traders Crab Meat,50,,,,Canned Meat,13.8,18.4,30,120,690.0
+92,Sold,2006-03-24 14:55:03,2006-04-04 11:06:56,Northwind Traders Scones,20,,,,Baked Goods & Mixes,7.5,10.0,5,20,150.0
+93,Sold,2006-03-24 14:55:39,2006-04-04 11:06:13,Northwind Traders Olive Oil,25,,,,Oil,16.0125,21.35,10,40,400.3125
+94,Sold,2006-03-24 14:55:52,2006-04-04 11:06:13,Northwind Traders Clam Chowder,30,,,,Soups,7.2375,9.65,10,40,217.125
+95,Sold,2006-03-24 14:56:09,2006-04-04 11:06:13,Northwind Traders Crab Meat,30,,,,Canned Meat,13.8,18.4,30,120,414.0
+96,On Hold,2006-03-30 16:46:34,2006-03-30 16:46:34,Northwind Traders Beer,12,,,,Beverages,10.5,14.0,15,60,126.0
+97,On Hold,2006-03-30 17:23:27,2006-03-30 17:23:27,Northwind Traders Beer,10,,,,Beverages,10.5,14.0,15,60,105.0
+98,On Hold,2006-03-30 17:24:33,2006-03-30 17:24:33,Northwind Traders Beer,1,,,,Beverages,10.5,14.0,15,60,10.5
+99,Sold,2006-04-03 13:50:08,2006-04-03 13:50:15,Northwind Traders Chocolate,10,,,,Candy,9.5625,12.75,25,100,95.625
+100,Purchased,2006-04-04 11:00:54,2006-04-04 11:00:54,Northwind Traders Ravioli,100,,,,Pasta,14.625,19.5,20,80,1462.5
+101,Sold,2006-04-04 11:00:56,2006-04-04 11:08:49,Northwind Traders Ravioli,100,,,"Fill Back Ordered product, Order #46",Pasta,14.625,19.5,20,80,1462.5
+102,Purchased,2006-04-04 11:01:14,2006-04-04 11:01:14,Northwind Traders Beer,50,,,,Beverages,10.5,14.0,15,60,525.0
+103,Purchased,2006-04-04 11:01:35,2006-04-04 11:01:35,Northwind Traders Coffee,250,,,,Beverages,34.5,46.0,25,100,8625.0
+104,On Hold,2006-04-04 11:01:37,2006-04-04 11:01:37,Northwind Traders Coffee,300,,,"Fill Back Ordered product, Order #41",Beverages,34.5,46.0,25,100,10350.0
+105,Purchased,2006-04-04 11:01:55,2006-04-04 11:01:55,Northwind Traders Curry Sauce,25,,,,Sauces,30.0,40.0,10,40,750.0
+106,Sold,2006-04-04 11:01:58,2006-04-04 11:07:37,Northwind Traders Curry Sauce,25,,,"Fill Back Ordered product, Order #48",Sauces,30.0,40.0,10,40,750.0
+107,Purchased,2006-04-04 11:02:17,2006-04-04 11:02:17,Northwind Traders Beer,300,,,,Beverages,10.5,14.0,15,60,3150.0
+108,Sold,2006-04-04 11:02:19,2006-04-04 11:08:14,Northwind Traders Beer,300,,,"Fill Back Ordered product, Order #47",Beverages,10.5,14.0,15,60,3150.0
+109,Purchased,2006-04-04 11:02:37,2006-04-04 11:02:37,Northwind Traders Chocolate Biscuits Mix,25,,,,Baked Goods & Mixes,6.9,9.2,5,20,172.5
+110,Sold,2006-04-04 11:02:39,2006-04-04 11:41:14,Northwind Traders Chocolate Biscuits Mix,10,,,"Fill Back Ordered product, Order #42",Baked Goods & Mixes,6.9,9.2,5,20,69.0
+111,Purchased,2006-04-04 11:02:56,2006-04-04 11:02:56,Northwind Traders Chocolate Biscuits Mix,10,,,,Baked Goods & Mixes,6.9,9.2,5,20,69.0
+112,Sold,2006-04-04 11:02:58,2006-04-04 11:07:37,Northwind Traders Chocolate Biscuits Mix,25,,,"Fill Back Ordered product, Order #48",Baked Goods & Mixes,6.9,9.2,5,20,172.5
+113,Purchased,2006-04-04 11:03:12,2006-04-04 11:03:12,Northwind Traders Mozzarella,50,,,,Dairy Products,26.1,34.8,10,40,1305.0
+114,Sold,2006-04-04 11:03:14,2006-04-04 11:08:49,Northwind Traders Mozzarella,50,,,"Fill Back Ordered product, Order #46",Dairy Products,26.1,34.8,10,40,1305.0
+115,Purchased,2006-04-04 11:03:38,2006-04-04 11:03:38,Northwind Traders Clam Chowder,50,,,,Soups,7.2375,9.65,10,40,361.875
+116,Sold,2006-04-04 11:03:39,2006-04-04 11:09:24,Northwind Traders Clam Chowder,50,,,"Fill Back Ordered product, Order #45",Soups,7.2375,9.65,10,40,361.875
+117,Sold,2006-04-04 11:04:55,2006-04-04 11:05:04,Northwind Traders Beer,87,,,,Beverages,10.5,14.0,15,60,913.5
+118,Sold,2006-04-04 11:35:50,2006-04-04 11:35:54,Northwind Traders Dried Apples,30,,,,Dried Fruit & Nuts,39.75,53.0,10,40,1192.5
+119,Sold,2006-04-04 11:35:51,2006-04-04 11:35:54,Northwind Traders Dried Pears,30,,,,Dried Fruit & Nuts,22.5,30.0,10,40,675.0
+120,Sold,2006-04-04 11:36:15,2006-04-04 11:36:21,Northwind Traders Fruit Cocktail,40,,,,Canned Fruit & Vegetables,29.25,39.0,10,40,1170.0
+121,Sold,2006-04-04 11:36:39,2006-04-04 11:36:47,Northwind Traders Boysenberry Spread,90,,,,"Jams, Preserves",18.75,25.0,25,100,1687.5
+122,Sold,2006-04-04 11:37:06,2006-04-04 11:37:09,Northwind Traders Cajun Seasoning,30,,,,Condiments,16.5,22.0,10,40,495.0
+123,Sold,2006-04-04 11:37:45,2006-04-04 11:37:49,Northwind Traders Chocolate,40,,,,Candy,9.5625,12.75,25,100,382.5
+124,Sold,2006-04-04 11:38:07,2006-04-04 11:38:11,Northwind Traders Chocolate,40,,,,Candy,9.5625,12.75,25,100,382.5
+125,Sold,2006-04-04 11:38:27,2006-04-04 11:38:32,Northwind Traders Clam Chowder,10,,,,Soups,7.2375,9.65,10,40,72.375
+126,Sold,2006-04-04 11:38:48,2006-04-04 11:38:53,Northwind Traders Coffee,5,,,,Beverages,34.5,46.0,25,100,172.5
+127,Sold,2006-04-04 11:39:12,2006-04-04 11:39:29,Northwind Traders Crab Meat,40,,,,Canned Meat,13.8,18.4,30,120,552.0
+128,Sold,2006-04-04 11:39:50,2006-04-04 11:39:53,Northwind Traders Curry Sauce,20,,,,Sauces,30.0,40.0,10,40,600.0
+129,Sold,2006-04-04 11:40:13,2006-04-04 11:40:16,Northwind Traders Dried Plums,15,,,,Dried Fruit & Nuts,3.0,3.5,50,75,45.0
+130,Sold,2006-04-04 11:40:32,2006-04-04 11:40:38,Northwind Traders Almonds,20,,,,Dried Fruit & Nuts,7.5,10.0,5,20,150.0
+131,Sold,2006-04-04 11:41:39,2006-04-04 11:41:45,Northwind Traders Mozzarella,40,,,,Dairy Products,26.1,34.8,10,40,1044.0
+132,Sold,2006-04-04 11:42:17,2006-04-04 11:42:26,Northwind Traders Syrup,50,,,,Condiments,7.5,10.0,25,100,375.0
+133,Sold,2006-04-04 11:42:24,2006-04-04 11:42:26,Northwind Traders Curry Sauce,3,,,,Sauces,30.0,40.0,10,40,90.0
+134,Sold,2006-04-04 11:42:48,2006-04-04 11:43:08,Northwind Traders Marmalade,40,,,,"Jams, Preserves",60.75,81.0,10,40,2430.0
+135,Sold,2006-04-04 11:43:05,2006-04-04 11:43:08,Northwind Traders Long Grain Rice,40,,,,Grains,5.25,7.0,25,100,210.0
+136,On Hold,2006-04-25 17:04:05,2006-04-25 17:04:57,Northwind Traders Gnocchi,110,,,,Pasta,28.5,38.0,30,120,3135.0

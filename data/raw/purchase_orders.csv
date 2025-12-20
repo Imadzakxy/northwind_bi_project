@@ -1,0 +1,29 @@
+Purchase Order ID,Supplier ID,Created By,Submitted Date,Creation Date,Status ID,Expected Date,Shipping Fee,Taxes,Payment Date,Payment Amount,Payment Method,Notes,Approved By,Approved Date,Submitted By
+90,Supplier A,Andrew Cencini,2006-01-14 00:00:00,2006-01-22 00:00:00,Approved,,0,0,,0,,,Andrew Cencini,2006-01-22 00:00:00,Andrew Cencini
+91,Supplier C,Andrew Cencini,2006-01-14 00:00:00,2006-01-22 00:00:00,Approved,,0,0,,0,,,Andrew Cencini,2006-01-22 00:00:00,Andrew Cencini
+92,Supplier B,Andrew Cencini,2006-01-14 00:00:00,2006-01-22 00:00:00,Approved,,0,0,,0,,,Andrew Cencini,2006-01-22 00:00:00,Andrew Cencini
+93,Supplier E,Andrew Cencini,2006-01-14 00:00:00,2006-01-22 00:00:00,Approved,,0,0,,0,,,Andrew Cencini,2006-01-22 00:00:00,Andrew Cencini
+94,Supplier F,Andrew Cencini,2006-01-14 00:00:00,2006-01-22 00:00:00,Approved,,0,0,,0,,,Andrew Cencini,2006-01-22 00:00:00,Andrew Cencini
+95,Supplier D,Andrew Cencini,2006-01-14 00:00:00,2006-01-22 00:00:00,Approved,,0,0,,0,,,Andrew Cencini,2006-01-22 00:00:00,Andrew Cencini
+96,Supplier A,Steven Thorpe,2006-01-14 00:00:00,2006-01-22 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #30,Andrew Cencini,2006-01-22 00:00:00,Steven Thorpe
+97,Supplier B,Robert Zare,2006-01-14 00:00:00,2006-01-22 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #33,Andrew Cencini,2006-01-22 00:00:00,Robert Zare
+98,Supplier B,Mariya Sergienko,2006-01-14 00:00:00,2006-01-22 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #36,Andrew Cencini,2006-01-22 00:00:00,Mariya Sergienko
+99,Supplier A,Jan Kotas,2006-01-14 00:00:00,2006-01-22 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #38,Andrew Cencini,2006-01-22 00:00:00,Jan Kotas
+100,Supplier B,Anne Hellung-Larsen,2006-01-14 00:00:00,2006-01-22 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #39,Andrew Cencini,2006-01-22 00:00:00,Anne Hellung-Larsen
+101,Supplier A,Andrew Cencini,2006-01-14 00:00:00,2006-01-22 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #40,Andrew Cencini,2006-01-22 00:00:00,Andrew Cencini
+102,Supplier A,Nancy Freehafer,2006-03-24 00:00:00,2006-03-24 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #41,Andrew Cencini,2006-04-04 00:00:00,Nancy Freehafer
+103,Supplier B,Nancy Freehafer,2006-03-24 00:00:00,2006-03-24 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #42,Andrew Cencini,2006-04-04 00:00:00,Nancy Freehafer
+104,Supplier B,Nancy Freehafer,2006-03-24 00:00:00,2006-03-24 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #45,Andrew Cencini,2006-04-04 00:00:00,Nancy Freehafer
+105,Supplier E,Robert Zare,2006-03-24 00:00:00,2006-03-24 00:00:00,Approved,,0,0,,0,Check,Purchase generated based on Order #46,Andrew Cencini,2006-04-04 00:00:00,Robert Zare
+106,Supplier F,Robert Zare,2006-03-24 00:00:00,2006-03-24 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #46,Andrew Cencini,2006-04-04 00:00:00,Robert Zare
+107,Supplier A,Michael Neipper,2006-03-24 00:00:00,2006-03-24 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #47,Andrew Cencini,2006-04-04 00:00:00,Michael Neipper
+108,Supplier B,Mariya Sergienko,2006-03-24 00:00:00,2006-03-24 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #48,Andrew Cencini,2006-04-04 00:00:00,Mariya Sergienko
+109,Supplier B,Mariya Sergienko,2006-03-24 00:00:00,2006-03-24 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #48,Andrew Cencini,2006-04-04 00:00:00,Mariya Sergienko
+110,Supplier A,Jan Kotas,2006-03-24 00:00:00,2006-03-24 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #49,Andrew Cencini,2006-04-04 00:00:00,Jan Kotas
+111,Supplier A,Andrew Cencini,2006-03-31 00:00:00,2006-03-31 00:00:00,Approved,,0,0,,0,,Purchase generated based on Order #56,Andrew Cencini,2006-04-04 00:00:00,Andrew Cencini
+140,Supplier F,,2006-04-25 00:00:00,2006-04-25 16:40:51,Approved,,0,0,,0,,,Andrew Cencini,2006-04-25 16:41:33,Andrew Cencini
+141,Supplier H,,2006-04-25 00:00:00,2006-04-25 17:10:35,Approved,,0,0,,0,,,Andrew Cencini,2006-04-25 17:10:55,Andrew Cencini
+142,Supplier H,,2006-04-25 00:00:00,2006-04-25 17:18:29,Approved,,0,0,,0,Check,,Andrew Cencini,2006-04-25 17:18:51,Andrew Cencini
+146,Supplier B,Andrew Cencini,2006-04-26 18:26:37,2006-04-26 18:26:37,Submitted,,0,0,,0,,,,,Andrew Cencini
+147,Supplier G,Andrew Cencini,2006-04-26 18:33:28,2006-04-26 18:33:28,Submitted,,0,0,,0,,,,,Andrew Cencini
+148,Supplier E,Andrew Cencini,2006-04-26 18:33:52,2006-04-26 18:33:52,Submitted,,0,0,,0,,,,,Andrew Cencini

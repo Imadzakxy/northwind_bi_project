@@ -1,0 +1,56 @@
+ID,Purchase Order ID,Product,Quantity,Unit Cost,Date Received,Posted To Inventory,Inventory ID
+238,90,Northwind Traders Chai,40,14.0,2006-01-22,True,59.0
+239,91,Northwind Traders Syrup,100,8.0,2006-01-22,True,54.0
+240,91,Northwind Traders Cajun Seasoning,40,16.0,2006-01-22,True,55.0
+241,91,Northwind Traders Olive Oil,40,16.0,2006-01-22,True,56.0
+242,92,Northwind Traders Boysenberry Spread,100,19.0,2006-01-22,True,40.0
+243,92,Northwind Traders Dried Pears,40,22.0,2006-01-22,True,41.0
+244,92,Northwind Traders Curry Sauce,40,30.0,2006-01-22,True,42.0
+245,92,Northwind Traders Walnuts,40,17.0,2006-01-22,True,43.0
+246,92,Northwind Traders Fruit Cocktail,40,29.0,2006-01-22,True,44.0
+247,92,Northwind Traders Chocolate Biscuits Mix,20,7.0,2006-01-22,True,45.0
+248,92,Northwind Traders Marmalade,40,61.0,2006-01-22,True,46.0
+249,92,Northwind Traders Scones,20,8.0,2006-01-22,True,47.0
+250,90,Northwind Traders Beer,60,10.0,2006-01-22,True,60.0
+251,92,Northwind Traders Crab Meat,120,14.0,2006-01-22,True,48.0
+252,92,Northwind Traders Clam Chowder,40,7.0,2006-01-22,True,49.0
+253,90,Northwind Traders Coffee,100,34.0,2006-01-22,True,61.0
+254,92,Northwind Traders Chocolate,100,10.0,2006-01-22,True,50.0
+255,92,Northwind Traders Dried Apples,40,40.0,2006-01-22,True,51.0
+256,93,Northwind Traders Long Grain Rice,100,5.0,2006-01-22,True,37.0
+257,93,Northwind Traders Gnocchi,120,28.0,2006-01-22,True,38.0
+258,93,Northwind Traders Ravioli,80,15.0,2006-01-22,True,39.0
+259,91,Northwind Traders Hot Pepper Sauce,40,16.0,2006-01-22,True,57.0
+260,91,Northwind Traders Tomato Sauce,80,13.0,2006-01-22,True,58.0
+261,94,Northwind Traders Mozzarella,40,26.0,2006-01-22,True,36.0
+262,92,Northwind Traders Almonds,20,8.0,2006-01-22,True,52.0
+263,92,Northwind Traders Mustard,60,10.0,2006-01-22,True,53.0
+264,95,Northwind Traders Dried Plums,75,3.0,2006-01-22,True,35.0
+265,90,Northwind Traders Green Tea,125,2.0,2006-01-22,True,62.0
+266,96,Northwind Traders Beer,100,10.0,2006-01-22,True,82.0
+267,97,Northwind Traders Chocolate Biscuits Mix,30,7.0,2006-01-22,True,80.0
+268,98,Northwind Traders Clam Chowder,200,7.0,2006-01-22,True,78.0
+269,99,Northwind Traders Coffee,300,34.0,2006-01-22,True,76.0
+270,100,Northwind Traders Chocolate,100,10.0,2006-01-22,True,74.0
+271,101,Northwind Traders Green Tea,200,2.0,2006-01-22,True,72.0
+272,102,Northwind Traders Coffee,300,34.0,,False,
+273,103,Northwind Traders Chocolate Biscuits Mix,10,7.0,2006-04-17,True,111.0
+274,104,Northwind Traders Clam Chowder,50,7.0,2006-04-06,True,115.0
+275,105,Northwind Traders Ravioli,100,15.0,2006-04-05,True,100.0
+276,106,Northwind Traders Mozzarella,50,26.0,2006-04-05,True,113.0
+277,107,Northwind Traders Beer,300,10.0,2006-04-05,True,107.0
+278,108,Northwind Traders Curry Sauce,25,30.0,2006-04-05,True,105.0
+279,109,Northwind Traders Chocolate Biscuits Mix,25,7.0,2006-04-05,True,109.0
+280,110,Northwind Traders Coffee,250,34.0,2006-04-10,True,103.0
+281,90,Northwind Traders Chai,40,14.0,,False,
+282,92,Northwind Traders Chocolate Biscuits Mix,20,7.0,,False,
+283,111,Northwind Traders Beer,50,10.0,2006-04-04,True,102.0
+285,91,Northwind Traders Syrup,50,8.0,,False,
+286,91,Northwind Traders Cajun Seasoning,40,16.0,,False,
+288,140,Northwind Traders Brownie Mix,10,9.0,,False,
+289,141,Northwind Traders Boysenberry Spread,10,18.75,,False,
+290,142,Northwind Traders Chai,1,13.5,,False,
+292,146,Northwind Traders Marmalade,40,60.0,,False,
+293,146,Northwind Traders Dried Apples,40,39.0,,False,
+294,147,Northwind Traders Crab Meat,120,13.0,,False,
+295,148,Northwind Traders Mozzarella,40,26.0,,False,

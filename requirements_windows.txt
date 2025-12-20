@@ -1,0 +1,22 @@
+# Base de données
+pyodbc==5.0.1
+sqlalchemy==2.0.23
+
+# ETL et manipulation de données
+# Pin numpy to a <2 release because matplotlib 3.8.x requires numpy<2 (avoids conflicts with numpy 2.x)
+numpy>=1.23.2,<2
+pandas==2.0.3
+
+# Visualisation
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+dash==2.14.2
+
+# Notebooks
+jupyter==1.0.0
+ipykernel==6.27.1
+
+# Utilitaires
+python-dotenv==1.0.0
+openpyxl==3.1.2

@@ -1,0 +1,11 @@
+SupplierID,SupplierCompany,SupplierLastName,SupplierFirstName,E-mail Address,SupplierJobTitle,Business Phone,Home Phone,Mobile Phone,Fax Number,Address,City,State/Province,ZIP/Postal Code,Country/Region,Web Page,Notes,Attachments,SupplierName,ProductCount,MinPrice,MaxPrice,AvgPrice
+1,Supplier A,Andersen,Elizabeth A.,,Sales Manager,,,,,,,,,,,,0,Elizabeth A. Andersen,0,0.0,0.0,0.0
+2,Supplier B,Weiler,Cornelia,,Sales Manager,,,,,,,,,,,,0,Cornelia Weiler,0,0.0,0.0,0.0
+3,Supplier C,Kelley,Madeleine,,Sales Representative,,,,,,,,,,,,0,Madeleine Kelley,0,0.0,0.0,0.0
+4,Supplier D,Sato,Naoki,,Marketing Manager,,,,,,,,,,,,0,Naoki Sato,0,0.0,0.0,0.0
+5,Supplier E,Hernandez-Echevarria,Amaya,,Sales Manager,,,,,,,,,,,,0,Amaya Hernandez-Echevarria,0,0.0,0.0,0.0
+6,Supplier F,Hayakawa,Satomi,,Marketing Assistant,,,,,,,,,,,,0,Satomi Hayakawa,0,0.0,0.0,0.0
+7,Supplier G,Glasson,Stuart,,Marketing Manager,,,,,,,,,,,,0,Stuart Glasson,0,0.0,0.0,0.0
+8,Supplier H,Dunton,Bryn Paul,,Sales Representative,,,,,,,,,,,,0,Bryn Paul Dunton,0,0.0,0.0,0.0
+9,Supplier I,Sandberg,Mikael,,Sales Manager,,,,,,,,,,,,0,Mikael Sandberg,0,0.0,0.0,0.0
+10,Supplier J,Sousa,Luis,,Sales Manager,,,,,,,,,,,,0,Luis Sousa,0,0.0,0.0,0.0
