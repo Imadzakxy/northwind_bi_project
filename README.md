@@ -347,9 +347,9 @@ dashboard.run(debug=True, port=8081)
 ---
 
 ## 👤 Auteur
-
-**Ragoub Anes**  
-Projet réalisé dans le cadre d'une formation en Business Intelligence  
+Slimani imad zakaria el hadj ··
+232331397617 ·· 
+Projet Bisnes Intelligence 3eme ingenieur cybersecurity
 
 ---
 
@@ -367,4 +367,3 @@ Ce projet est fourni à des fins éducatives. La base de données Northwind est 
 
 ---
 
-**✨ Bon apprentissage et bonne analyse ! ✨**
