@@ -16,7 +16,7 @@ Ce projet présente une solution complète de Business Intelligence (BI) basée 
 ## 📁 Structure du Projet
 
 ```
-Project-BI/
+bi_project/
 │
 ├── data/
 │   ├── raw/                    # Données sources (Excel/CSV)
@@ -52,7 +52,7 @@ Project-BI/
 
 ```bash
 # Cloner ou télécharger le projet
-cd Project-BI
+cd bi_project
 
 # Créer un environnement virtuel (recommandé)
 python -m venv venv
@@ -366,4 +366,4 @@ Ce projet est fourni à des fins éducatives. La base de données Northwind est 
 - Tous les contributeurs et formateurs
 
 ---
-
+*Dernière modification: 20/12/2025*
